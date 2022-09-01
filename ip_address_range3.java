@@ -13,3 +13,4 @@ class case17
     }
     
 }
+//Combine all 3 ranges to implement ip address validation
